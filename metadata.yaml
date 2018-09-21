@@ -1,11 +1,16 @@
 _repo: Die-krankheiterregenden-Bakterien-Entstehung-Heilung-und-Bekampfung-der-bakteriellen-Infektio__54762
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54762-h/images/cover.jpg
 creator:
   author:
     agent_name: Loehlein, Max
     gutenberg_agent_id: '48032'
     url: http://www.gutenberg.org/2009/agents/48032
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54762#Die-krankheiterregenden-Bakterien-Entstehung-Heilung-und-Bekampfung-der-bakteriellen-Infektio_
 gutenberg_issued: '2017-05-22'
 gutenberg_type: Text
 identifiers:
